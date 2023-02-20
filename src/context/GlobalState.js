@@ -35,7 +35,7 @@ export const GlobalProvider = ({ children }) => {
   }
 
   const foo = useMemo(() => ({
-    transactions: state.transactions,
+    transactions: [...state.transactions],
     deleteTransaction,
     addTransaction
   }), [state.transactions]);
