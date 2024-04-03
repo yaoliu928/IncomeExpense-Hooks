@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IncomeExpense-Hooks/static/css/main.e9f44403.css",
+    "main.js": "/IncomeExpense-Hooks/static/js/main.ebb8315e.js",
+    "static/js/787.88c903fd.chunk.js": "/IncomeExpense-Hooks/static/js/787.88c903fd.chunk.js",
+    "index.html": "/IncomeExpense-Hooks/index.html",
+    "main.e9f44403.css.map": "/IncomeExpense-Hooks/static/css/main.e9f44403.css.map",
+    "main.ebb8315e.js.map": "/IncomeExpense-Hooks/static/js/main.ebb8315e.js.map",
+    "787.88c903fd.chunk.js.map": "/IncomeExpense-Hooks/static/js/787.88c903fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.ebb8315e.js"
+  ]
+}
